@@ -48,7 +48,8 @@ setup(
         "Flask>=0.10.1",
         "docopt",
         "pyzmq>=13",
-        "mistune"
+        "mistune",
+        "ipykernel",
     ],
     classifiers=['Intended Audience :: Science/Research',
                  'Intended Audience :: Developers',
